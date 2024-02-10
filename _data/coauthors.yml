@@ -1,23 +1,79 @@
-"sherrie":
+"wang":
   - firstname: ["Sherrie"]
     url: https://sherriewang.github.io/
+  - firstname: ["Zhangyang", "Atlas"]
+    url: https://vita-group.github.io/
+  - firstname: ["Sheng"]
+    url: https://shengwang12.github.io/
+  - firstname: ["Boxin"]
+    url: https://boxin.wang/
+  - firstname: ["Sibo"]
+    url: https://sibocw.github.io/
 
-"bo":
+"li":
   - firstname: ["Bo"]
     url: https://aisecure.github.io/
 
-"atlas":
-  - firstname: ["Zhangyang", "Atlas"]
-    url: https://vita-group.github.io/
-
-"kaiyu":
+"guan":
   - firstname: ["Kaiyu"]
     url: http://faculty.nres.illinois.edu/~kaiyuguan/
 
-"sheng":
-  - firstname: ["Sheng"]
-    url: https://shengwang12.github.io/
+"margenot":
+  - firstname: ["Andrew", "Andrew J"]
+    url: https://margenot.cropsciences.illinois.edu/
 
-"junyuan":
+"rhoads":
+  - firstname: ["Bruce", "Bruce L"]
+    url: https://margenot.cropsciences.illinois.edu/
+
+"hong":
   - firstname: ["Junyuan"]
     url: https://jyhong.gitlab.io/
+
+"xu":
+  - firstname: ["Chejian"]
+    url: https://xuchejian.com/
+
+"chen":
+  - firstname: ["Weixin"]
+    url: https://chenweixin107.github.io/
+
+"kang":
+  - firstname: ["Mintong"]
+    url: https://kangmintong.github.io/
+
+"xie":
+  - firstname: ["Chulin"]
+    url: https://alphapav.github.io/
+
+"schaeffer":
+  - firstname: ["Rylan"]
+    url: https://rylanschaeffer.github.io/
+
+"koyejo":
+  - firstname: ["Sanmi"]
+    url: https://cs.stanford.edu/~sanmi/
+
+"song":
+  - firstname: ["Dawn"]
+    url: https://dawnsong.io/
+
+"hendrycks":
+  - firstname: ["Dan"]
+    url: https://people.eecs.berkeley.edu/~hendrycks/
+
+"arora":
+  - firstname: ["Simran"]
+    url: https://arorasimran.com/
+
+"lin":
+  - firstname: ["Zinan"]
+    url: https://zinanlin.me/bio/
+
+"cheng":
+  - firstname: ["Yu"]
+    url: https://ych133.github.io/
+
+"truong":
+  - firstname: ["Sang", "Sang T."]
+    url: https://ych133.github.io/
