@@ -27,4 +27,4 @@ My long-term research agenda aims to build _accurate, efficient, trustworthy, an
 - uphold trustworthiness, minimizing risks of misuse;
 - lower the barriers of entry to geospatial data, enabling their use by policymakers and the broader community.
 
-By tailoring the advancements in multi-modal pretraining, benchmark design, model auditing, and domain knowledge augmentation to the unique challenges of geospatial data, I hope we can address the pressing issues in sustainable agriculture, land management, and agroecosystem modeling, thereby contributing to our collective efforts to mitigate and adapt to climate change.
+By tailoring the advancements in multi-modal pretraining, benchmark design, model auditing, and domain knowledge augmentation to the unique challenges of interpreting remote sensing data, I hope we can address the pressing issues in sustainable agriculture, land management, and agroecosystem modeling, thereby contributing to our collective efforts to mitigate and adapt to climate change.
