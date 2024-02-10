@@ -21,19 +21,19 @@
   ],
   "awards": [
     {
-      "title": "Fiddler Innovation Fellowship Award",
-      "date": "2022",
-      "awarder": "National Center for Supercomputing Applications"
-    },
-    {
-      "title": "Fiddler Innovation Fellowship Award",
-      "date": "2023",
-      "awarder": "National Center for Supercomputing Applications"
-    },
-    {
       "title": "Michael Hammer Fellowship",
       "date": "2023",
       "awarder": "Massachusetts Institute of Technology"
+    },
+    {
+      "title": "Fiddler Innovation Fellowship Award",
+      "date": "2023",
+      "awarder": "National Center for Supercomputing Applications"
+    },
+    {
+      "title": "Fiddler Innovation Fellowship Award",
+      "date": "2022",
+      "awarder": "National Center for Supercomputing Applications"
     }
   ],
   "certificates": [],
