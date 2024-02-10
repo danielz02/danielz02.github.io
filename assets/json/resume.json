@@ -4,8 +4,17 @@
       "institution": "University of Illinois Urbana-Champaign",
       "location": "Champaign, Illinois",
       "url": "https://www.illinois.edu/",
+      "area": "+ Machine Learning for Earth Observation + Geospatial Knowledge Representation in Foundation Model + Trustworthy Machine Learning",
+      "studyType": "PhD in Social and Engineering Systems",
+      "startDate": "2019-08",
+      "endDate": "Present"
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Champaign, Illinois",
+      "url": "https://www.illinois.edu/",
       "area": "Computer Science",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science in Computer Science",
       "startDate": "2019-08",
       "endDate": "2023-05",
       "score": "3.97"
