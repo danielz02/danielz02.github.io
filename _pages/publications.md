@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: * denotes equal contribution. Please see Google Scholar for an up-to-date list of publications.
+description: Please see Google Scholar for an up-to-date list of publications.
 nav: true
 nav_order: 2
 ---
