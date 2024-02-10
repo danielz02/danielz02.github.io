@@ -20,11 +20,6 @@ I am a first-year Ph.D. student at the [MIT Institute for Data, Systems, and Soc
 
 Before that, I obtained my B.S. degree in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Bo Li](https://aisecure.github.io/), Prof. [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/), and Prof. [Sheng Wang](https://shengwang12.github.io/). I also worked closely with Prof. [Zhangyang "Atlas" Wang](https://vita-group.github.io/).
 
-My long-term research agenda aims to build _accurate, efficient, trustworthy, and democratized_ machine learning systems for climate and geospatial science. Concretely, I believe such systems should
+My long-term research agenda aims to build _accurate, efficient, trustworthy, and democratized_ machine learning systems for climate and geospatial science.
 
-- offer robust and generalizable spatiotemporal representations of Earth;
-- achieve data efficiency with minimal computational overhead;
-- uphold trustworthiness, minimizing risks of misuse;
-- lower the barriers of entry to geospatial data, enabling their use by policymakers and the broader community.
-
-By tailoring the advancements in multi-modal pretraining, benchmark design, model auditing, and domain knowledge augmentation to the unique challenges of interpreting remote sensing data, I hope we can address the pressing issues in sustainable agriculture, land management, and agroecosystem modeling, thereby contributing to our collective efforts to mitigate and adapt to climate change.
+By tailoring the advancements in multi-modal pretraining, benchmark design, model auditing, and domain knowledge augmentation to the unique challenges of geospatial data, particularly interpreting remote sensing images, I hope we can address the pressing issues in sustainable agriculture, land management, and agroecosystem modeling, thereby contributing to our collective efforts to mitigate and adapt to climate change.
