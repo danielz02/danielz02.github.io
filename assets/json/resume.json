@@ -32,17 +32,20 @@
     {
       "title": "Michael Hammer Fellowship",
       "date": "2023",
-      "awarder": "Massachusetts Institute of Technology"
+      "awarder": "Massachusetts Institute of Technology",
+      "url": "https://idss.mit.edu/academics/ses_doc/ses-funding/hammer-fellows/michael-hammer-society-of-fellows/"
     },
     {
       "title": "Fiddler Innovation Fellowship Award",
       "date": "2023",
-      "awarder": "National Center for Supercomputing Applications"
+      "awarder": "National Center for Supercomputing Applications",
+      "url": "https://www.ncsa.illinois.edu/ncsa-awards-fiddler-innovation-fellowships-to-10-illinois-students/"
     },
     {
       "title": "Fiddler Innovation Fellowship Award",
       "date": "2022",
-      "awarder": "National Center for Supercomputing Applications"
+      "awarder": "National Center for Supercomputing Applications",
+      "url": "https://www.ncsa.illinois.edu/ncsa-awards-24-fiddler-innovation-fellowships-to-illinois-students-faculty/"
     }
   ],
   "certificates": [],
