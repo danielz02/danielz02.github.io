@@ -9,7 +9,7 @@
     url: https://boxin.wang/
   - firstname: ["Sibo"]
     url: https://sibocw.github.io/
-  - firstname: ["Jiachen", "Jiachen T", "Jiachen T.", "Tianhao"]
+  - firstname: ["Jiachen", "Jiachen T", "Jiachen T.", "Jiachen~T.", "Tianhao"]
     url: https://tianhaowang.netlify.app/
 
 "li":
@@ -21,11 +21,11 @@
     url: http://faculty.nres.illinois.edu/~kaiyuguan/
 
 "margenot":
-  - firstname: ["Andrew", "Andrew J", "Andrew J."]
+  - firstname: ["Andrew", "Andrew J", "Andrew J.", "Andrew~J."]
     url: https://margenot.cropsciences.illinois.edu/
 
 "rhoads":
-  - firstname: ["Bruce", "Bruce L", "Bruce L."]
+  - firstname: ["Bruce", "Bruce L", "Bruce L.", "Bruce~L."]
     url: https://margenot.cropsciences.illinois.edu/
 
 "hong":
