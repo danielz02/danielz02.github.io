@@ -1,29 +1,23 @@
 "sherrie":
   - firstname: ["Sherrie"]
-  - lastname: ["Wang"]
     url: https://sherriewang.github.io/
 
 "bo":
   - firstname: ["Bo"]
-  - firstname: ["Li"]
     url: https://aisecure.github.io/
 
 "atlas":
   - firstname: ["Zhangyang", "Atlas"]
-  - lastname: ["Wang"]
     url: https://vita-group.github.io/
 
 "kaiyu":
   - firstname: ["Kaiyu"]
-  - lastname: ["Guan"]
     url: http://faculty.nres.illinois.edu/~kaiyuguan/
 
 "sheng":
   - firstname: ["Sheng"]
-  - lastname: ["Wang"]
     url: https://shengwang12.github.io/
 
 "junyuan":
   - firstname: ["Junyuan"]
-  - lastname: ["Hong"]
     url: https://jyhong.gitlab.io/
