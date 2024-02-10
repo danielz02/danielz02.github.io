@@ -103,8 +103,7 @@
           {% unless forloop.last %}
             {% assign more_authors_show = more_authors_show | append: ', ' %}
           {% endunless %}
-        {% endfor -%}
-        , and
+        {% endfor -%}, and
         <span
           class="more-authors"
           title="click to view {{more_authors_hide}}"
