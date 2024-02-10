@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a first-year Ph.D. student at the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by Prof. [Sherrie Wang](https://sherriewang.github.io/). I'm part of the [Earth Intelligence Lab](https://sites.mit.edu/earthintelligence/), where we try to democratize the access to geospatial machine learning and better understand our planet.
 
-Before that, I obtained my B.S. degree in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Bo Li](https://aisecure.github.io/), Prof. [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/), and Prof. [Sheng Wang](https://shengwang12.github.io/). I also worked closely with Prof. [Zhangyang "Atlas" Wang](https://vita-group.github.io/). During my undergraduate study, I mainly worked on (cross-scale) hyperspectral remote sensing for agriculture, certified robustness for neural networks against adversarial attacks, sparse neural networks, and trustworthy large language models (LLMs).
+Before that, I obtained my B.S. degree in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Bo Li](https://aisecure.github.io/), Prof. [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/), and Prof. [Sheng Wang](https://shengwang12.github.io/). I also worked closely with Prof. [Zhangyang "Atlas" Wang](https://vita-group.github.io/).
 
 My long-term research agenda aims to build _accurate, efficient, trustworthy, and democratized_ machine learning systems for climate and geospatial science. Concretely, I believe such systems should
 
