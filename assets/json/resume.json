@@ -1,12 +1,12 @@
 {
   "education": [
     {
-      "institution": "University of Illinois Urbana-Champaign",
-      "location": "Champaign, Illinois",
-      "url": "https://www.illinois.edu/",
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, Massachusetts",
+      "url": "https://www.idss.mit.edu/",
       "area": "+ Machine Learning for Earth Observation + Geospatial Knowledge Representation in Foundation Model + Trustworthy Machine Learning",
       "studyType": "PhD in Social and Engineering Systems",
-      "startDate": "2019-08",
+      "startDate": "2023-09",
       "endDate": "Present"
     },
     {
