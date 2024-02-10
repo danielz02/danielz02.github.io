@@ -12,10 +12,20 @@
     {
       "institution": "University of Illinois Urbana-Champaign",
       "location": "Champaign, IL",
-      "url": "https://www.illinois.edu/",
+      "url": "https://cs.illinois.edu/",
       "studyType": "Bachelor of Science in Computer Science",
       "startDate": "2019-08",
-      "endDate": "2023-05"
+      "endDate": "2023-05",
+      "highlights": ["Highest Honors"]
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Champaign, IL",
+      "url": "https://stat.illinois.edu/",
+      "studyType": "Bachelor of Science in Liberal Arts & Sciences Major in Statistics",
+      "startDate": "2019-08",
+      "endDate": "2023-05",
+      "highlights": ["Magna Cum Laude", "Highest Distinction in Statistics"]
     }
   ],
   "awards": [
