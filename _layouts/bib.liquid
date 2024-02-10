@@ -50,7 +50,7 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
-      {% for author in entry.author_array limit: author_array_limit %}
+      {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {% assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' %}
         {% if site.scholar.last_name contains author_last_name %}
@@ -89,7 +89,7 @@
             {{ author.last -}}
           {%- endif -%}
         {%- endif -%}
-      {% endfor %}
+      {%- endfor -%}
       {% assign more_authors = author_array_size | minus: author_array_limit %}
 
       {% assign more_authors_hide = more_authors | append: ' more author' %}
@@ -98,12 +98,12 @@
           {% assign more_authors_hide = more_authors_hide | append: 's' %}
         {% endif %}
         {% assign more_authors_show = '' %}
-        {% for author in entry.author_array offset: author_array_limit %}
+        {%- for author in entry.author_array offset: author_array_limit -%}
           {% assign more_authors_show = more_authors_show | append: author.first | append: ' ' | append: author.last %}
           {% unless forloop.last %}
             {% assign more_authors_show = more_authors_show | append: ', ' %}
           {% endunless %}
-        {% endfor -%}
+        {%- endfor -%}
         , and
         <span
           class="more-authors"
