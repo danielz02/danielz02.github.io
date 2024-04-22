@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year Ph.D. student at the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by Prof. [Sherrie Wang](https://sherriewang.github.io/). I'm part of the [Earth Intelligence Lab](https://sites.mit.edu/earthintelligence/), where we try to democratize the access to geospatial machine learning and better understand our planet.
+I am a first-year Ph.D. student at the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/), advised by Prof. [Sherrie Wang](https://sherriewang.github.io/). I'm part of the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) and the [Earth Intelligence Lab](https://sites.mit.edu/earthintelligence/), where we try to democratize the access to geospatial machine learning and better understand our planet.
 
 Before that, I obtained my B.S. degree in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Bo Li](https://aisecure.github.io/), Prof. [Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/), and Prof. [Sheng Wang](https://shengwang12.github.io/). I also worked closely with Prof. [Zhangyang "Atlas" Wang](https://vita-group.github.io/).
 
